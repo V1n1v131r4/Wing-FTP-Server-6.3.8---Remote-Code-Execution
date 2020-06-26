@@ -47,14 +47,13 @@ In the remote management panel there is a console written in the LUA language, w
 
 Below is a remote command execution PoC through the lua console to obtain a reverse shell on the target machine.
 
+![p6](http://sejalivre.org/poc3/6.png)
+
 
 ![p4](http://sejalivre.org/poc3/4.png)
 
 
 ![p5](http://sejalivre.org/poc3/5.png)
-
-
-![p6](http://sejalivre.org/poc3/6.png)
 
 
 ![p7](http://sejalivre.org/poc3/7.png)
